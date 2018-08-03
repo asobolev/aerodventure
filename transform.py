@@ -31,7 +31,12 @@ boost = 0.3
 
 # red, yellow, kind of white, light blue
 ranges = [(5, 21), (35, 50), (61, 60), (170, 200)]
-to_colors = ['ef767a', '456990', 'f49d37', '49beaa']
+
+
+
+ranges = [(35, 50)]
+#to_colors = ['ef767a', '456990', 'f49d37', '49beaa']
+to_colors = ['f4e002']
 #shifts = [300, 50, 0, 50]
 
 result = []
